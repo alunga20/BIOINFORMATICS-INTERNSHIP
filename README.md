@@ -18,4 +18,4 @@ To enhance my knowledge in Bioinformatics by learning various Skills.
 
 ---
 
-To interact with my learning timeline during this period, feel free to visit my [Roadmap](https://github.com/alunga20/Roadmap)
+To interact with my learning timeline during this period, feel free to visit my [Roadmap](https://github.com/alunga20/Roadmap/blob/main/Roadmap.md)
