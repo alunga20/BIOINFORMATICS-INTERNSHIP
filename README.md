@@ -1,4 +1,4 @@
-# BIOINFORMATICS-INTERNSHIP 
+# Bioinformatics-Internship 
 
 Hello 🤓
 
