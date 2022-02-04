@@ -14,7 +14,7 @@ To become an established Computational Biologist who is able to Integrate large 
 
 ## Short-term Vision 
 To Contribute to the Bioinformatics projects at ICIPE during my internship.
-To enhance my knowledge in Bioinformatics by learning various Skills.
+To enhance my knowledge in Bioinformatics by learning various Skills and its applications.
 
 ---
 
