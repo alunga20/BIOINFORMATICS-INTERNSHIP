@@ -2,7 +2,7 @@
 
 Hello 🤓
 
-My Name is Maxwell Booker, a Bioinformatics intern at the a Molecular Biology and Bioinformatics Unit (MBBU) at ICIPE.
+My Name is Maxwell Booker, a Bioinformatics intern at the Molecular Biology and Bioinformatics Unit (MBBU) at ICIPE.
 I have a Background in Biochemistry and Molecular Biology and I am very excited to begin this Journey and Learn from skilled Bioinformaticians at ICIPE.
 
 
